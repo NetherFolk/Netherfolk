@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on `nothing!`.
-- 🌱 I’m currently learning C++, Raylib/Raylib-cpp, and Mingw32-make.
+- 🔭 I’m currently working on `nothing`!.
+- 🌱 I’m currently learning C++, Raylib/Raylib-cpp, and Makefiles.
 - 👯 I’m looking to collaborate on nothing for now!
 - 🤔 I’m looking for help with setting up Raylib-cpp on Dev-C++!
 - 💬 Ask me about how it feels to be bad at coding I guess?
